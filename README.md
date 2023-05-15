@@ -11,3 +11,6 @@ meu nome e fenando gois
 fernando.gois.antunes@escola.pr.gov.br
 
 ![](https://media.tenor.com/PKKCAakpBZIAAAAC/neyney-neymar.gif)
+
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+(https://www.instagram.com.br)
