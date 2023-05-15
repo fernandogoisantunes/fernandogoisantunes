@@ -2,8 +2,8 @@
 
 meu nome e fenando gois
 
-- Estou estudando na Alura
-- Estou me desenvolvendo na linguagem javaScript
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na limguagem javacript
 - Utilizo este espaço para minha organizaçao e compartilhamento do meus projetos desenvolvidos
 
 ### Voce pode entrar em contato comigo 📧
